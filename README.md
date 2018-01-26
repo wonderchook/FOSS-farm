@@ -1,2 +1,2 @@
 # open-farming
-Collection of Open Resources About Farming (also ones that are needed)
+Collection of Open Resources About Farming and also TODO information that doesn't exist. 
